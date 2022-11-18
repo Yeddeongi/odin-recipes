@@ -1,0 +1,1 @@
+I became a bit more comfortable in using git at the same time, I've been able to make my very own website that can be actually viewed in the internet! thank you git hub. 
